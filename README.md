@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="assets/mario-and-luigi.png" width="50%" />
+<img src="src/assets/mario-and-luigi.png" width="50%" />
 
 
 </p>
