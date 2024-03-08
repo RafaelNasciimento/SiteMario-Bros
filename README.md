@@ -25,3 +25,9 @@ Este projeto é do filme **Mario Bros** usando _HTML_ e _CSS_.
 - [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
+
+## 🔎 Veja mais de perto
+
+Linkedin: https://www.linkedin.com/posts/rafael-nascimento-599817231_programming-program-coding-activity-7171958149187334144-_x9D?utm_source=share&utm_medium=member_desktop
+</br>
+Behance: https://www.behance.net/gallery/193358383/Projeto-Site-Mario-Bros
