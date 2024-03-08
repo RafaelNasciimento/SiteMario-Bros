@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-[![print.png](https://i.postimg.cc/PJzDhprX/print.png)](https://postimg.cc/fSyyfb9p)
+<img src="assets/mario-and-luigi.png" width="50%" />
+
 
 </p>
 
