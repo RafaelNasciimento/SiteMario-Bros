@@ -1,0 +1,124 @@
+@media screen and (max-width: 1900px){
+    body{
+        margin: 0 10px;
+    }
+    
+    .main__info p {
+        font-size: 16px;
+        margin: 20px 20px 28px;
+    }
+    
+    main{
+        margin-top: 60px;
+    }    
+    
+    main .imgMario img{
+        width: 500px;
+    }
+    
+    main .btns {
+        margin: 0 0 0 3px;
+    }
+    
+    }
+    
+    
+    @media screen and (max-width: 860px){
+    
+        main .imgMario img{
+            display: none;
+        }
+    
+        main .imgMario2 img{
+            display: flex;
+            margin-bottom: 213px;
+        }
+    
+        main .img_movie {
+            
+            margin-bottom: 60px;
+        }
+    
+        main .main__info{
+            display: none;
+        }
+    
+        main .main__info2{
+            display: flex;
+        }
+    
+        main .img_movie {
+            display: flex;
+        }
+    
+        main {
+            display: flex;
+            flex-direction: column;
+            overflow-y: scroll;
+        }
+    
+        main .main__info2{
+            display: flex;
+            flex-direction: column;
+        }
+    
+        .main__info2 div {
+            display: flex;
+            column-gap: 32px;
+        }
+        
+        .main__info2 div a, .main__info2 div button {
+            width: 50%;
+            padding: 10px 0;
+            border-radius: 3px;
+          
+            font-size: 16px;
+            font-weight: 600;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        
+            transform: skew(-10deg);
+        }
+        
+        .main__info2  div a {
+            background: red;
+            border: 1px solid red;
+        
+            transition: 0.3s;
+        }
+        
+        .main__info2 .btns a:hover{
+            background: transparent;
+        }
+        
+        
+        .main__info2 div button {
+            background: transparent;
+            border: 1px solid green;
+        
+            transition: 0.3s;
+        }
+        
+        .main__info2 .btns button:hover{
+            background: green;
+        }
+    
+        .main__info2 p {
+            font-size: 21px;
+            margin: 0 30px 0 30px;
+        }
+    
+        .main__info2 .btns {
+            align-items: center;
+            flex-direction: column;
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+    
+        .main__info2 .btns a{
+            flex-direction: column;
+            
+            margin-bottom: 30px;
+        }
+    }
