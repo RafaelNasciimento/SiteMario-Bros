@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  ![print](https://github.com/RafaelNasciimento/SiteMario-Bros/assets/103595936/487ac488-18cb-42da-b8fb-0f7b3315550e)
+[![print.png](https://i.postimg.cc/PJzDhprX/print.png)](https://postimg.cc/fSyyfb9p)
+
 </p>
 
 ## 💻 Projeto
